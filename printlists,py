@@ -1,0 +1,23 @@
+myList = ("Green","Blue","Pink")
+print(myList)
+
+myList = ("Green","Blue","Pink")
+print(len(myList))
+
+list1 = ("Good","Better","Best")
+list2 = (5,4,3,2,1)
+list3 = (True,False,True)
+print(list1)
+print(list2)
+print(list3)
+
+list123 = ("Eighty",80,False,"nice")
+print(list123)
+
+myList = ["Python","language","of","computer"]
+print(type(myList))
+
+yourlist = list(("India","Saudi Arab","Europe"))
+print(yourlist)
+
+
