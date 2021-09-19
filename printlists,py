@@ -129,3 +129,10 @@ for x in Box:
         newlist.append(x)
 print(newlist)        
 
+
+
+ 
+Work = ["Wow", "Nice", "Very good", "OMG", "Smarty"]
+newlist = [x if x != "Nice" else "Aiyyo" for x in Work]
+print(newlist)
+
